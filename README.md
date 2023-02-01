@@ -11,8 +11,8 @@ link- https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-small
 4. Run the test.py using this two pickle files to test the model.
 5. Run main.py file to display the final output (For front-end I've used streamlit to display the output).
 
--->Sample file is having the sample images I had used to train my model
 
+-->Sample file is having the sample images I had used to train my model
 -->Uploads file will store the image you had selected for suggestion
 
 
