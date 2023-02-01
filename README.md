@@ -12,7 +12,9 @@ link- https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-small
 5. Run main.py file to display the final output (For front-end I've used streamlit to display the output).
 
 -->Sample file is having the sample images I had used to train my model
+
 -->Uploads file will store the image you had selected for suggestion
+
 
 Note:
 For running the files via terminal/cmd use the command "streamlit run main.py" to run the main.py file
