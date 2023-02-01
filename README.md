@@ -17,4 +17,4 @@ link- https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-small
 
 
 //Note:
-For running the files via terminal/cmd use the command "streamlit run main.py" to run the main.py file
+For running the files via terminal/cmd use the command "streamlit run main.py" to run the main.py file//
