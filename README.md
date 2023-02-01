@@ -2,6 +2,7 @@
 A Deep Learning based Fashion Recommender System using the ResNET50
 In this project, the user is requested to upload one image of any clothing item and based on that the model will recommend five similar looking images from the dataset
 
+
 How to run:
 1. Download the dataset from kaggle
 link- https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-small
@@ -17,4 +18,4 @@ link- https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-small
 
 
 //Note:
-For running the files via terminal/cmd use the command "streamlit run main.py" to run the main.py file//
+For running the files via terminal/cmd use the command "streamlit run main.py" to run the main.py file
