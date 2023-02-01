@@ -16,5 +16,5 @@ link- https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-small
 -->Uploads file will store the image you had selected for suggestion
 
 
-Note:
+//Note:
 For running the files via terminal/cmd use the command "streamlit run main.py" to run the main.py file
